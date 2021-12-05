@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "AnangGamteng",
   "version": "11.8.3",
-  "description": "WhatsApp bot Nodejs",
+  "description": "Silent",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -45,15 +45,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/SANGSANINNN26/thelimit"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Anang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/SANGSANINNN26"
 }
